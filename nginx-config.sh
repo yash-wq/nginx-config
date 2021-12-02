@@ -15,7 +15,7 @@ nginx_file_name="${project_name}"
 echo $service_file_name
 echo $nginx_file_name
 sudo cp "nginx-config/$service_file_name" "/etc/systemd/system/${project_name}.service"
-sudo systemctl daemon-reload
+#sudo systemctl daemon-reload
 sudo systemctl start $project_name
 sudo systemctl enable $project_name
 
