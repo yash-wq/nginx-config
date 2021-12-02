@@ -16,3 +16,4 @@ You will be asked for the name of the virtual environment, make sure you enter i
 Then you will have to enter the domain that you want to use to display the Webapp.
 
 Wait for a few seconds and Done! You have a deployed flask app.
+Go to the your domain in your browser and you can see your webapp.
