@@ -17,3 +17,7 @@ Then you will have to enter the domain that you want to use to display the Webap
 
 Wait for a few seconds and Done! You have a deployed flask app.
 Go to the your domain in your browser and you can see your webapp.
+
+
+For a step-by-step guide to deploy Flask applications using NGINX and Gunicorn:
+https://www.atomicloops.com/post/step-by-step-guide-for-deploying-a-flask-application-on-ubuntu-using-gunicorn-and-nginx
