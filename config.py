@@ -1,6 +1,6 @@
 
 import os
-import sys
+import sys//importing
 env_name = input("Enter the name of the virtual environment: ")
 domain = input("Enter the domain you have configured to the IP: ")
 user = sys.argv[1]
